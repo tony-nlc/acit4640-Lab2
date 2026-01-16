@@ -3,6 +3,7 @@
 ssh-keygen -t ed25519 -f ~/.ssh/wkone
 ```
 `-t` is specifying the encryption algorithm
+
 `-f` is specifying the location of key file is stored 
 
 ## Part 3
