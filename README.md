@@ -50,5 +50,5 @@ EOF
 ### IP Address of instance
 ![](https://github.com/tony-nlc/acit4640-Lab2/blob/main/Pasted%20image%2020260116151507.png)
 
-#### Index Homepage
+### Index Homepage
 ![](https://github.com/tony-nlc/acit4640-Lab2/blob/main/Pasted%20image%2020260116151435.png)
