@@ -44,3 +44,11 @@ ssh -i $ssh_key_path $username@$ip_address << EOF
 	sudo mv ~/index.html /var/www/html/index.nginx-debian.html
 EOF
 ```
+
+## DEMO
+
+### HTML Page
+![[Pasted image 20260116151435.png]]
+
+### IP Address of instance
+![[Pasted image 20260116151507.png]]
