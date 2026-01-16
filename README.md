@@ -47,8 +47,8 @@ EOF
 
 ## DEMO
 
-### HTML Page
-![[Pasted image 20260116151435.png]]
-
 ### IP Address of instance
-![[Pasted image 20260116151507.png]]
+![](https://github.com/tony-nlc/acit4640-Lab2/blob/main/Pasted%20image%2020260116151507.png)
+
+#### Index Homepage
+![](https://github.com/tony-nlc/acit4640-Lab2/blob/main/Pasted%20image%2020260116151435.png)
