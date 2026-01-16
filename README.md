@@ -1,3 +1,6 @@
+## Student ID: A01373832
+## Student Name: Tony Chou
+
 ## Part 1
 ```bash
 ssh-keygen -t ed25519 -f ~/.ssh/wkone
